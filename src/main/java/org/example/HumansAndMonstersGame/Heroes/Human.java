@@ -6,7 +6,6 @@ import lombok.Setter;
 import org.example.HumansAndMonstersGame.HumanInterface;
 import org.example.HumansAndMonstersGame.Race;
 
-import java.util.Scanner;
 
 @AllArgsConstructor
 @Getter

@@ -4,24 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7f88ac1-9732-406a-a1c0-91ce9b9f1c0d" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HumansAndMonstersGame/ElfInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HumansAndMonstersGame/Game/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HumansAndMonstersGame/Heroes/Elf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HumansAndMonstersGame/Heroes/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HumansAndMonstersGame/Heroes/Orc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HumansAndMonstersGame/Heroes/Races.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HumansAndMonstersGame/HumanInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HumansAndMonstersGame/OrсInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HumansAndMonstersGame/Race.java" afterDir="false" />
+    <list default="true" id="a7f88ac1-9732-406a-a1c0-91ce9b9f1c0d" name="Changes" comment="create a fighting game">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ExampleGame/Hero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ExampleGame/Human.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ExampleGame/Ork.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/HumansAndMonstersGame/ElfInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/HumansAndMonstersGame/ElfInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/HumansAndMonstersGame/Heroes/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/HumansAndMonstersGame/Heroes/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/HumansAndMonstersGame/OrсInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/HumansAndMonstersGame/OrсInterface.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,13 +97,22 @@
       <option name="project" value="LOCAL" />
       <updated>1719005209608</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="create a fighting game">
+      <option name="closed" value="true" />
+      <created>1719180328227</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719180328227</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="create a fighting game" />
+    <option name="LAST_COMMIT_MESSAGE" value="create a fighting game" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
